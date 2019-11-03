@@ -16,14 +16,6 @@ namespace ConsoleApp12
             RepeatingMissing arrayintegers = new RepeatingMissing();
             arrayintegers.Print(A);
 
-			RepeatingMissing arrayintegers = new RepeatingMissing();
-
-			RepeatingMissing arrayintegers = new RepeatingMissing();
-            arrayintegers.Print(A);
-
-			RepeatingMissing arrayintegers = new RepeatingMissing();
-
-
             Console.ReadLine();
            
         }
